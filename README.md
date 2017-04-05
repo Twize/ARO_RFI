@@ -8,3 +8,5 @@ Files contained in this repository:
 - upchannelize.py (Up-channelizing routine to remove narrowband persistent RFI prior to decimation) 
 - SK.py (Spectral Kurtosis flagging algorithm)
 - SumThreshold.py (SumThreshold iterative flagging algorithm, first developed in C++ by Andre Offringa) 
+
+For any inquiries, contact me at: tyler.wizenberg@mail.utoronto.ca
